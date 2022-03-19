@@ -1,0 +1,21 @@
+<list>
+  <hospital>
+    <doctors>
+      <doctor>
+        <doctorSurname>TreatingDoctor</doctorSurname>
+      </doctor>
+      <doctor>
+        <doctorSurname>Nurse</doctorSurname>
+      </doctor>
+    </doctors>
+    <patients>
+      <patient>
+        <patientSurname>Patient1</patientSurname>
+        <doctor>
+          <doctorSurname>Doctor1</doctorSurname>
+        </doctor>
+        <isHealthy>false</isHealthy>
+      </patient>
+    </patients>
+  </hospital>
+</list>

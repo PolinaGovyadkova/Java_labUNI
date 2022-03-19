@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hospital>
+    <doctors>
+        <doctor>
+            <doctorSurname>Лечащий врач</doctorSurname>
+        </doctor>
+        <doctor>
+            <doctorSurname>Медсестра</doctorSurname>
+        </doctor>
+        <doctor>
+            <doctorSurname>Независимый врач</doctorSurname>
+        </doctor>
+    </doctors>
+    <patients>
+        <patient>
+            <patientSurname>Пациент1</patientSurname>
+            <doctor>
+                <doctorSurname>Врач1</doctorSurname>
+            </doctor>
+            <isHealthy>true</isHealthy>
+        </patient>
+    </patients>
+</hospital>

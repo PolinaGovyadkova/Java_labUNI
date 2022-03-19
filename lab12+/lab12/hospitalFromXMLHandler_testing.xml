@@ -1,0 +1,26 @@
+<list>
+  <hospital>
+    <doctors>
+      <doctor>
+        <doctorSurname>Лечащий врач</doctorSurname>
+      </doctor>
+      <doctor>
+        <doctorSurname>Медсестра</doctorSurname>
+      </doctor>
+      <doctor>
+        <doctorSurname>Независимый врач</doctorSurname>
+      </doctor>
+      <doctor>
+        <doctorSurname>Врач1</doctorSurname>
+      </doctor>
+    </doctors>
+    <patients>
+      <patient>
+        <patientSurname>Пациент1</patientSurname>
+        <doctor>
+          <doctorSurname>Врач1</doctorSurname>
+        </doctor>
+      </patient>
+    </patients>
+  </hospital>
+</list>
